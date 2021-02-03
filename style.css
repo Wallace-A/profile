@@ -1,7 +1,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
-  background: rgb(192,212,217);
-  background: linear-gradient(0deg, rgba(192,212,217,1) 0%, rgba(67,56,125,1) 49%, rgba(0,212,255,1) 100%);
+  background: rgb(147,148,152);
+  background: linear-gradient(0deg, rgba(147,148,152,1) 0%, rgba(60,69,126,1) 100%);
   color: rgb(2, 15, 24);
   font-size: 16;
   line-height: 1;
