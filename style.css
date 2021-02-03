@@ -2,7 +2,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   background: rgb(147,148,152);
   background: linear-gradient(0deg, rgba(147,148,152,1) 0%, rgba(60,69,126,1) 100%);
-  color: rgb(2, 15, 24);
+  color:rgba(60,69,126,1);
   font-size: 16;
   line-height: 1;
   text-align: center;
@@ -10,7 +10,7 @@ body {
 
 h1, h2, h3 {
   font-family: 'Roboto', sans-serif;
-  color: rgb(2, 15, 24);
+  color:rgb(35, 40, 73);
   font-size: 16;
 }
 
@@ -43,9 +43,13 @@ a:hover {
   display: inline-block;
   border-radius: 4px;
 }
-
+.main-img{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
 .card-img{
-  width: 500px;
+  width: 400px;
   border-radius: 4px;
 }
 
