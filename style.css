@@ -26,10 +26,10 @@ a:hover {
 
 .card-offwhite {
   width: 600px;
-  margin: 48px auto;
-  padding: 32px;
+  margin: 32px auto;
+  padding: 24px;
   background-color: #f6f8f8;
-  box-shadow: 0 0 16px rgb(0 0 0 / 20%);
+  box-shadow: 0 0 16px rgb(0 0 0 / 60%);
   text-align: center;
   border-radius: 6px;
 }
